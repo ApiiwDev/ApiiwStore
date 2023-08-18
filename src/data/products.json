@@ -1,0 +1,14 @@
+[
+    {
+        "itemId": 1,
+        "title": "Mechanical Keyboard",
+        "price": "799000",
+        "image": "../Image/keyboard.jpg"
+    },
+    {
+        "itemId": 2,
+        "title": "Mechanical Keyboard",
+        "price": "799000",
+        "image": "keyboardImg"
+    }
+]
